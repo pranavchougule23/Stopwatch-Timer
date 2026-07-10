@@ -1,0 +1,59 @@
+# ⏱️ Stopwatch & Timer
+
+A modern Stopwatch and Countdown Timer built using HTML, CSS, and JavaScript. It includes stopwatch controls, lap recording, countdown timer, and Local Storage support.
+
+## 🚀 Features
+
+- ▶️ Start Stopwatch
+- ⏸️ Pause Stopwatch
+- 🔄 Reset Stopwatch
+- 🏁 Lap Time
+- 💾 Save Lap History
+- ⏲️ Countdown Timer
+- 🔔 Time's Up Alert
+- 📱 Responsive Design
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Local Storage
+
+## 📁 Project Structure
+
+Stopwatch-Timer/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── LICENSE
+└── screenshots/
+
+## ▶️ How to Run
+
+1. Download or clone the repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+No installation or database is required.
+
+
+## 🔮 Future Improvements
+
+- Dark / Light Theme
+- Sound Notification
+- Multiple Timers
+- Export Lap History
+- Milliseconds Support
+- Keyboard Shortcuts
+
+## 👨‍💻 Author
+
+**Pranav Chougule**
+
+GitHub: https://github.com/your-username
+
+## 📄 License
+
+This project is licensed under the MIT License.
